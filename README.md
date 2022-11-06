@@ -1,4 +1,4 @@
-Stopwatch application
+Time plus application
 
 Time plus is a timer application which has a stopwatch with a timer to help you do a particular task in a bounded time. Kindly click on link visit the website --->
 
